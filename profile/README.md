@@ -79,8 +79,6 @@ CREATE TABLE PROJETO_R_USUARIO (
 ```
 
 A conexão com o banco é gerenciada pela classe `ConexaoDAO`. Se você encontrar algum erro na integração com o banco de dados, recomenda-se verificar esta classe para identificar possíveis problemas.
-https://github.com/gustagt
-https://github.com/nadine-e-pereira
 
 # Autores
 <table>
